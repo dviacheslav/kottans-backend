@@ -11,3 +11,9 @@ Everything is new for me.
 [quiz4](task-unix-shell/quiz4.png?raw=true "Optional Title")
 
 I got a ton of info about Linux terminal command, bash scripts.
+
+## Git Collaboration
+
+[Screenshot] (task-git-collaboration/task-done.png)
+
+Github issues was new for me, contributing rules is a good idea. 
