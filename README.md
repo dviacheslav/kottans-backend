@@ -5,16 +5,16 @@ I first learned about Git.
 Everything is new for me. 
 
 ## Unix shell
-![quiz1](task-unix-shell/quiz1.png)
-![quiz2](task-unix-shell/quiz2.png)
-![quiz3](task-unix-shell/quiz3.png)
-![quiz4](task-unix-shell/quiz4.png?raw=true "Optional Title")
+[quiz1](task-unix-shell/quiz1.png)
+[quiz2](task-unix-shell/quiz2.png)
+[quiz3](task-unix-shell/quiz3.png)
+[quiz4](task-unix-shell/quiz4.png?raw=true "Optional Title")
 
 I got a ton of info about Linux terminal command, bash scripts.
 
 ## Git Collaboration
 
-![Screenshot](task-git-collaboration/task-done.png)
+[Screenshot](task-git-collaboration/task-done.png)
 
 Github issues was new for me, contributing rules is a good idea. 
 
@@ -73,3 +73,7 @@ Answers:
 7ffdddb8c000-7ffdddb8e000 r-xp 00000000 00:00 0                          [vdso]
 ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]
 ```
+Examples:
+`Heap - 5617a1dc1000-5617a1f2d000`, `Stack - 7ffdddb1e000-7ffdddb3f000`, `MMS - 7f0dcc9d8000-7f0dcc9e3000`
+
+All content is new for me, I'm not sure I understood all of this right.
