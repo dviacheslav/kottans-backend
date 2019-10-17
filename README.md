@@ -77,3 +77,8 @@ Examples:
 `Heap - 5617a1dc1000-5617a1f2d000`, `Stack - 7ffdddb1e000-7ffdddb3f000`, `MMS - 7f0dcc9d8000-7f0dcc9e3000`
 
 All content is new for me, I'm not sure I understood all of this right.
+
+## Python Basics 1
+
+[Hackerrank](https://www.hackerrank.com/viacheslav_d)
+[Screenshot](python_basics_1/hackerrankSubmissions.png)
