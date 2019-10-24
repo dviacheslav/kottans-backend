@@ -82,3 +82,12 @@ All content is new for me, I'm not sure I understood all of this right.
 
 [Hackerrank](https://www.hackerrank.com/viacheslav_d)
 [Screenshot](python_basics_1/hackerrankSubmissions.png)
+
+## TCP. UDP. Network
+
+[Internet 101](task-networks/internet101.png)
+[Networking for web developers](task-networks/udacity1.png)
+[Networking for web developers](task-networks/udacity2.png)
+[port-sniffer.py](task-networks/sniffer.py)
+
+This task was complicated for me. I found few new modules for python (argparse, socket) and will use it in future.
