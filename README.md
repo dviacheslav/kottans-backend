@@ -91,3 +91,22 @@ All content is new for me, I'm not sure I understood all of this right.
 [port-sniffer.py](task-networks/sniffer.py)
 
 This task was complicated for me. I found few new modules for python (argparse, socket) and will use it in future.
+
+## HTTP & HTTPS
+
+Get list repositories of "Kottans"
+```
+curl -i https://api.github.com/users/kottans/repos
+```
+Create issue:
+```
+curl -i -u dviacheslav -d '{"title":"issue title", "body":"issue body"}' https://api.github.com/repos/dviacheslav/kottans-backend/issues
+Enter host password for user 'dviacheslav':************
+```
+
+Answers:
+1. Privacy, integrity and identification. If you use HTTP instead HTTPS crime can read your data, change your data, change your destination server.
+2. User has private key and public key. Data can be encrypt with private key and decrypt with public key. Also data can be encrypt with public key and decrypt only private key.
+3. POST for adding new pet,
+GET for search pet by name,
+PUT for all other.
