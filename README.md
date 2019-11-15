@@ -110,3 +110,8 @@ Answers:
 3. POST for adding new pet,
 GET for search pet by name,
 PUT for all other.
+
+## File system
+
+[secret.txt](file_system/secret.txt)
+[file_system_task.py](file_system/file_system_task.py)
